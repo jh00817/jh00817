@@ -20,6 +20,13 @@ I can be `Robotics Engineer`, `Full-stack developer(Front-end or AI based)` or `
 
 I am fluent in `Korean` and `English`. I can do `Chinese` and `Japanese`
 
+## Contact
+
+noelbait02@korea.ac.kr
+dreambait011@naver.com
+
+insta : jh_00817
+
 ## Experience
 
 ### 2018-2019
