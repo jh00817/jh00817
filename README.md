@@ -12,7 +12,7 @@ I am studying in `Korea University, Mechanical Engineering`.
 ## My Skills
 
 My main language is `Python`. 
-And I can do `C/C++/C#`, `Matlab`, 'JavaScript(React)` and `ROS`.
+And I can do `C/C++/C#`, `Matlab`, `JavaScript(React)` and `ROS`.
 I experienced `Unity`, `After Effect` and `Mujoko`.
 I can be `Robotics Engineer`, `Full-stack developer(Front based)` or `Mechanical product design`.
 
