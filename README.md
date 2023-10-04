@@ -8,6 +8,4 @@ I am studying in 'Korea University, Mechanical Engineering'.
 
 ## My Skills
 
-![스크린샷 2023-10-04 오후 6 15 22](https://github.com/jh00817/jh00817/assets/87847222/38dade9b-1340-49ff-88fe-7ff230684125)
-
-As you can see, my main language is 'Python'.
+My main language is 'Python'.
