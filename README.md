@@ -16,7 +16,7 @@ And I can do `C/C++/C#`, `Matlab`, `JavaScript(React)` and `ROS`.
 
 I experienced `Unity`, `After Effect` and `Mujoko`.
 
-I can be `Robotics Engineer`, `Full-stack developer(Front-end based)` or `Mechanical product design`.
+I can be `Robotics Engineer`, `Full-stack developer(Front-end based)` or `Mechanical product designer with cool design`.
 
 I am fluent in `Korean` and `English`. I can do `Chinese` and `Japanese`
 
