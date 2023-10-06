@@ -25,7 +25,7 @@ I am fluent in `Korean` and `English`. I can do `Chinese` and `Japanese`
 noelbait02@korea.ac.kr
 dreambait011@naver.com
 
-insta : jh_00817
+insta : [jh_00817](instagram.com/jh_00817)
 
 ## Experience
 
