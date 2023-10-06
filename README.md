@@ -1,6 +1,6 @@
 # Hello, World
 
-### [한국어 README link]()
+### [한국어 README link](https://github.com/jh00817/jh00817/blob/main/읽어봐주세요.md)
 
 
 Hi, I am `Jihoon Kim` from `Korea`.
