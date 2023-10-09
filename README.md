@@ -1,5 +1,8 @@
 # Hello, World
 
+<img width="123" alt="스크린샷 2023-10-09 오후 9 10 37" src="https://github.com/jh00817/jh00817/assets/87847222/aa0b862c-c343-457b-bd49-46ec1d2a8a2b">
+<img width="123" alt="스크린샷 2023-10-09 오후 9 10 49" src="https://github.com/jh00817/jh00817/assets/87847222/a62984c3-932d-452d-b83c-8bbd87443a57">
+
 ### [한국어 README link](https://github.com/jh00817/jh00817/blob/main/읽어봐주세요.md)
 
 
@@ -14,7 +17,7 @@ I am studying in `Korea University, Mechanical Engineering`.
 My main language is `Python`. 
 And I can do `C/C++/C#`, `Matlab`, `JavaScript(React)`, `Django` and `ROS`.
 
-I experienced `Unity`, `After Effect` and `Mujoko`.
+I experienced `Unity`, `Adobe`(like photoshop, after effect so on) and `Mujoko`.
 
 I can be `Robotics Engineer`, `Full-stack developer(Front-end or AI based)` or `Mechanical product designer with artistic design`.
 
