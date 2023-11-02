@@ -23,6 +23,8 @@ I can be `Robotics Engineer`, `Full-stack developer(Front-end or AI based)` or `
 
 I am fluent in `Korean` and `English`. I can do `Chinese` and `Japanese`
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh00817&layout=compact) [![Jihoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh00817)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact
 
 noelbait02@korea.ac.kr
