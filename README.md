@@ -14,6 +14,9 @@ I am studying in `Korea University, Mechanical Engineering`.
 
 ## My Skills
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh00817&layout=compact) 
+
 My main language is `Python`. 
 And I can do `C/C++/C#`, `Matlab`, `JavaScript(React)`, `Django` and `ROS`.
 
@@ -23,7 +26,7 @@ I can be `Robotics Engineer`, `Full-stack developer(Front-end or AI based)` or `
 
 I am fluent in `Korean` and `English`. I can do `Chinese` and `Japanese`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh00817&layout=compact) 
+
 
 [![Jihoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh00817)](https://github.com/anuraghazra/github-readme-stats)
 
